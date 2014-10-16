@@ -1,4 +1,4 @@
-media-kit
+Mailcover` Media Kit
 =========
 
-Brand resources for 
+Brand resources and style guide.
